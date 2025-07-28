@@ -32,3 +32,5 @@ Criar uma aplicação web simples que permita ao usuário:
 - **Validação:** Evita nomes vazios e alerta o usuário.
 
 ---
+
+![Badge do desafio](challenge-amigo-secreto_pt-main/assets/badge.png)
